@@ -1,14 +1,7 @@
-My name is Renato Britto. I'm on a mission to become the best engineer I can be. Interest in Bitcoin OSS. 
+My name is Renato Britto (satsfy). I'm on a mission to become the best engineer I can be. 
 
-### Experience
-- [Coinbase](https://www.coinbase.com/) - Identity, web3 - Backend Software Engineer. Maintained authentication systems. Created an authentication NFT. Used Golang, AWS, Terraform, Mongo, Ruby.
-- [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented microservices and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
-- Red Matter - Full Stack Developer. Planned and developed product features and infrastructre using AWS, Node and React. Hired, trained and managed developers.
-- [Zapay](https://usezapay.com.br/) - Backend Developer. Developed a chatbot API and backend microservice features using Python and FastAPI.
-- [AiLab](https://ailab.unb.br/) - Mandamus - ML Engineer and Project Manager. Developed systems for classifying and composing legal documents using ML models.
+Interested in the Bitcoin open source ecossystem.
 
- ### Education
-- Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">University of Brasília</a>.
+In my 5 years of experience, I have worked for [Coinbase](https://www.coinbase.com/). I have a Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">University of Brasília</a>, and also 50% of an Aerospace Engineering degree. 
 
-### Achievements
-- ICPC Brazilian Finals competitive programming national contest in Campina Grande - PB (2019) and Gramado - RS (2022).
+For more information, visit my website: satsfy.xyz (or renatobritto.com).
