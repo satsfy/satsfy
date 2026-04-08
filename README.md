@@ -4,4 +4,4 @@ Interested in the Bitcoin open source ecossystem.
 
 In my 5 years of experience, I have worked for [Coinbase](https://www.coinbase.com/). I have a Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">University of Brasília</a>, and also 50% of an Aerospace Engineering degree. 
 
-For more information, visit my website: [satsfy.xyz](satsfy.xyz) (or [renatobritto.com](renatobritto.com)).
+For more information, visit my website: [satsfy.xyz](https://satsfy.xyz) (or [renatobritto.com](https://renatobritto.com)).
