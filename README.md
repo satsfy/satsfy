@@ -1,4 +1,4 @@
-My name is Renato Britto (satsfy). I'm on a mission to become the best engineer I can be, Ad maiorem Dei gloriam.
+My name is Renato Britto (satsfy). I'm on a mission to become the best engineer I can be, ad maiorem Dei gloriam.
 
 Interested in the Bitcoin open source ecosystem.
 
