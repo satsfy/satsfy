@@ -1,4 +1,4 @@
-My name is Renato Britto (satsfy). I'm on a mission to become the best engineer I can be. 
+My name is Renato Britto (satsfy). I'm on a mission to become the best engineer I can be, Ad maiorem Dei gloriam.
 
 Interested in the Bitcoin open source ecosystem.
 
@@ -6,4 +6,3 @@ In my 5 years of experience, I have worked for [Coinbase](https://www.coinbase.c
 
 For more information, visit my website: [satsfy.xyz](https://satsfy.xyz) (or [renatobritto.com](https://renatobritto.com)). [Gitlab](https://gitlab.com/users/satsfy). [Gitea](https://gitea.bitcoin.ninja/).
 
-Ad maiorem Dei gloriam.
